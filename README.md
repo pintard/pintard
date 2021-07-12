@@ -13,11 +13,11 @@ contact with me please feel free to [email](mailto:donovanpintard@gmail.com) me!
 
 ### 👓 Learning
 Some of the things I am currently learning, planning to learn, or am a bit too rusty in:
-- AngularJS
 - Vue.js
 - More AWS services
 - Tailwind CSS
 - Svelte
+- kubernetes
 - 🙄 TypeScript
 
 ![IMG_1646](https://user-images.githubusercontent.com/86621108/125312230-182d6500-e302-11eb-83ad-c448d5332b5f.png)

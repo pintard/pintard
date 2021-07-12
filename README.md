@@ -20,4 +20,4 @@ Some of the things I am currently learning, planning to learn, or am a bit too r
 - Svelte
 - 🙄 TypeScript
 
-![IMG_1646](https://user-images.githubusercontent.com/86621108/125309146-81f83f80-e2ff-11eb-9cff-17e2be9ee721.jpeg)
+![IMG_1646](https://user-images.githubusercontent.com/86621108/125310174-5c1f6a80-e300-11eb-87dd-e628e82011c1.jpg)

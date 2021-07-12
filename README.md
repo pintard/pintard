@@ -5,10 +5,10 @@ technologies to employ in development. My hobbies include cycling, learning japa
 contact with me please feel free to [email](mailto:donovanpintard@gmail.com) me!
 
 ### 💻 Skills
-- Javascript:   React, NodeJS, Express
-- Java:         Spring
+- Javascript:   React, Angular, NodeJS, Express, Electron
+- Java:         Spring, JavaFX
 - Python:       Django
-- UI/UX:        Figma / Adobe XD, JavaFX, Electron
+- UI/UX:        Figma, Adobe XD, Sketch
 - Database:     MySQL, MongoDB
 
 ### 👓 Learning
@@ -19,3 +19,5 @@ Some of the things I am currently learning, planning to learn, or am a bit too r
 - Tailwind CSS
 - Svelte
 - 🙄 TypeScript
+
+![258C4673-31ED-42A1-821C-8310F4DA8B4B](https://user-images.githubusercontent.com/86621108/125308010-8f60fa00-e2fe-11eb-97f0-c782a1bfe153.jpeg)

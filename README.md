@@ -5,16 +5,17 @@ technologies to employ in development and I like making creative solutions. My h
 touch with me please feel free to [email](mailto:donovanpintard@gmail.com) me! Here is my [website](https://donovanpintard.com) where you'll find my personal blog and projects.
 
 ### 💻&ensp;&ensp;SKILLS
-- Javascript:   React, Angular, NodeJS, Express, Electron
-- Java:         Spring Boot, JavaFX
+- Javascript:   React, Angular, NodeJS, Express
+- Java:         Spring Boot
 - Python:       Django
 - UI/UX:        Figma, Adobe XD, Sketch
-- Database:     MySQL, MongoDB
+- Database:     MySQL, PostgreSQL, MongoDB
 
 ### 🚧&ensp;&ensp;LEARNING
 Some of the things I am currently learning, planning to learn, or am a bit too rusty in:
 - Vue.js
 - More AWS services
+- Ruby on rails
 - Tailwind CSS
 - Svelte
 - kubernetes
